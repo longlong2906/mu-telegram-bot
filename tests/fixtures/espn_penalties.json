@@ -1,0 +1,19 @@
+{
+  "header": {
+    "id": "756229",
+    "competitions": [{
+      "id": "756229",
+      "date": "2025-08-27T19:00Z",
+      "timeValid": true,
+      "status": {"type": {
+        "name": "STATUS_FINAL_PEN", "state": "post", "completed": true
+      }},
+      "competitors": [
+        {"id": "386", "homeAway": "home", "winner": true, "score": "2",
+         "shootoutScore": 12, "team": {"id": "386", "displayName": "Grimsby Town"}},
+        {"id": "360", "homeAway": "away", "winner": false, "score": "2",
+         "shootoutScore": 11, "team": {"id": "360", "displayName": "Manchester United"}}
+      ]
+    }]
+  }
+}
