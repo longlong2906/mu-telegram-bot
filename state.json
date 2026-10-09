@@ -234,8 +234,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-10-10T16:30:00+00:00"
     },
     "401878777": {
       "match": {
