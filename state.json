@@ -225,7 +225,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Old Trafford",
+        "venue": null,
         "home_score": 1,
         "away_score": 1,
         "home_penalties": null,
@@ -235,7 +235,8 @@
         "url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united"
       },
       "sent": [
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-10-10T16:30:00+00:00"
     },
