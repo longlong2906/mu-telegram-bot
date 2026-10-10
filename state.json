@@ -222,17 +222,17 @@
         "away": "Tottenham Hotspur",
         "home_id": "360",
         "away_id": "367",
-        "status": "STATUS_SECOND_HALF",
-        "state": "in",
-        "completed": false,
+        "status": "STATUS_FULL_TIME",
+        "state": "post",
+        "completed": true,
         "venue": "Old Trafford",
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 1,
+        "away_score": 1,
         "home_penalties": null,
         "away_penalties": null,
         "home_winner": false,
         "away_winner": false,
-        "url": null
+        "url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united"
       },
       "sent": [
         "24h"
