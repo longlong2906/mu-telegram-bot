@@ -1211,8 +1211,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401915412/manchester-united-atletico-madrid"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-10-13T19:00:00+00:00"
     },
     "401915442": {
       "match": {
