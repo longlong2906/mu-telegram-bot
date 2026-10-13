@@ -1202,7 +1202,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Riyadh Air Metropolitano",
+        "venue": null,
         "home_score": 2,
         "away_score": 0,
         "home_penalties": null,
@@ -1212,7 +1212,8 @@
         "url": "https://www.espn.com/soccer/match/_/gameId/401915412/manchester-united-atletico-madrid"
       },
       "sent": [
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-10-13T19:00:00+00:00"
     },
