@@ -1202,7 +1202,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": null,
+        "venue": "Riyadh Air Metropolitano",
         "home_score": 2,
         "away_score": 0,
         "home_penalties": null,
