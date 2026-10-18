@@ -880,7 +880,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Elland Road",
+        "venue": null,
         "home_score": 1,
         "away_score": 1,
         "home_penalties": null,
@@ -891,7 +891,8 @@
       },
       "sent": [
         "1h",
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-10-18T13:00:00+00:00"
     },
