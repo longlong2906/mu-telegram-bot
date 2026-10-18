@@ -880,7 +880,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": null,
+        "venue": "Elland Road",
         "home_score": 1,
         "away_score": 1,
         "home_penalties": null,
