@@ -1189,8 +1189,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401915395/manchester-united-como"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-10-21T16:45:00+00:00"
     },
     "401915412": {
       "match": {
