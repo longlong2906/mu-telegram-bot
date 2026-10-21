@@ -1180,7 +1180,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Giuseppe Sinigaglia",
+        "venue": null,
         "home_score": 4,
         "away_score": 1,
         "home_penalties": null,
@@ -1190,7 +1190,8 @@
         "url": "https://www.espn.com/soccer/match/_/gameId/401915395/manchester-united-como"
       },
       "sent": [
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-10-21T16:45:00+00:00"
     },
