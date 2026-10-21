@@ -1180,7 +1180,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": null,
+        "venue": "Giuseppe Sinigaglia",
         "home_score": 4,
         "away_score": 1,
         "home_penalties": null,
