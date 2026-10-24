@@ -863,8 +863,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401879252/afc-bournemouth-manchester-united"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-10-25T14:00:00+00:00"
     },
     "401879260": {
       "match": {
