@@ -854,7 +854,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Old Trafford",
+        "venue": null,
         "home_score": 0,
         "away_score": 3,
         "home_penalties": null,
@@ -864,7 +864,8 @@
         "url": "https://www.espn.com/soccer/match/_/gameId/401879252/afc-bournemouth-manchester-united"
       },
       "sent": [
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-10-25T14:00:00+00:00"
     },
