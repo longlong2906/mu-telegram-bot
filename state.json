@@ -825,17 +825,17 @@
         "away": "Manchester United",
         "home_id": "363",
         "away_id": "360",
-        "status": "STATUS_SECOND_HALF",
-        "state": "in",
-        "completed": false,
+        "status": "STATUS_FULL_TIME",
+        "state": "post",
+        "completed": true,
         "venue": "Stamford Bridge",
-        "home_score": 1,
+        "home_score": 2,
         "away_score": 0,
         "home_penalties": null,
         "away_penalties": null,
-        "home_winner": false,
+        "home_winner": true,
         "away_winner": false,
-        "url": null
+        "url": "https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-chelsea"
       },
       "sent": [
         "24h"
