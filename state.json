@@ -1065,8 +1065,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401915308/as-roma-manchester-united"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-11-03T20:00:00+00:00"
     },
     "401915349": {
       "match": {
