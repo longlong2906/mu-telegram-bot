@@ -1056,7 +1056,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Old Trafford",
+        "venue": null,
         "home_score": 3,
         "away_score": 2,
         "home_penalties": null,
@@ -1067,7 +1067,8 @@
       },
       "sent": [
         "1h",
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-11-03T20:00:00+00:00"
     },
