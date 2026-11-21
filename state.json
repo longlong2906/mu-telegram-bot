@@ -208,8 +208,10 @@
         "away_winner": false,
         "url": "https://www.espn.com/soccer/match/_/gameId/401878755/manchester-united-liverpool"
       },
-      "sent": [],
-      "announced_kickoff": null
+      "sent": [
+        "24h"
+      ],
+      "announced_kickoff": "2026-11-22T16:30:00+00:00"
     },
     "401878773": {
       "match": {
