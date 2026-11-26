@@ -1170,7 +1170,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": null,
+        "venue": "Estádio José Alvalade",
         "home_score": 2,
         "away_score": 2,
         "home_penalties": null,
