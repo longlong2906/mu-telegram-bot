@@ -1170,7 +1170,7 @@
         "status": "STATUS_FULL_TIME",
         "state": "post",
         "completed": true,
-        "venue": "Estádio José Alvalade",
+        "venue": null,
         "home_score": 2,
         "away_score": 2,
         "home_penalties": null,
@@ -1180,7 +1180,8 @@
         "url": "https://www.espn.com/soccer/match/_/gameId/401915373/manchester-united-sporting-cp"
       },
       "sent": [
-        "24h"
+        "24h",
+        "result"
       ],
       "announced_kickoff": "2026-11-25T20:00:00+00:00"
     },
